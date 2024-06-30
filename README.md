@@ -33,9 +33,10 @@ Antes de iniciar, garanta que você tem o Python instalado em sua máquina. Este
 
 ### Executando a Aplicação
 Para executar a aplicação, use o seguinte comando no diretório raiz do projeto:
+    ```bash
     python aplicacao.py
 
 ### Testando a Aplicação
 Os testes foram escritos usando o framework unittest do Python. Para executar os testes, siga estes passos:
-
+```bash
 python -m unittest discover -s testes
