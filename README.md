@@ -28,12 +28,13 @@ Antes de iniciar, garanta que você tem o Python instalado em sua máquina. Este
    cd CaixaEletronico
 
 2. Instale as dependências do projeto:
+   ```bash
    pip install -r requisitos.txt
 
 
 ### Executando a Aplicação
 Para executar a aplicação, use o seguinte comando no diretório raiz do projeto:
-    ```bash
+    
     python aplicacao.py
 
 ### Testando a Aplicação
